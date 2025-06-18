@@ -1,0 +1,17 @@
+[
+  {
+    "pergunta": "Qual a saída do código: print(2 ** 3)?",
+    "opcoes": ["5", "6", "8", "9"],
+    "resposta": "8"
+  },
+  {
+    "pergunta": "Qual palavra-chave define uma função em Python?",
+    "opcoes": ["func", "define", "def", "function"],
+    "resposta": "def"
+  },
+  {
+    "pergunta": "Qual dessas estruturas é um loop?",
+    "opcoes": ["if", "elif", "else", "for"],
+    "resposta": "for"
+  }
+]
