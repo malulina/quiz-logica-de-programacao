@@ -14,4 +14,39 @@
     "opcoes": ["if", "elif", "else", "for"],
     "resposta": "for"
   }
+  {
+    "pergunta": "Qual é o operador de comparação para igualdade em Python?",
+    "opcoes": ["=", "==", "!=", "<>"],
+    "resposta": "=="
+  },
+  {
+    "pergunta": "Como se cria um comentário em Python?",
+    "opcoes": ["//", "#", "/* */", "<!-- -->"],
+    "resposta": "#"
+  },
+  {
+    "pergunta": "Qual é a função para imprimir na tela em Python?",
+    "opcoes": ["print()", "echo()", "show()", "display()"],
+    "resposta": "print()"
+  },
+  {
+    "pergunta": "O que significa 'None' em Python?",
+    "opcoes": ["Vazio", "Nulo", "Falso", "Indefinido"],
+    "resposta": "Nulo"
+  },
+  {
+    "pergunta": "Como se define uma lista em Python?",
+    "opcoes": ["[]", "{}","()", "<>"],
+    "resposta": "[]"
+  },
+  {
+    "pergunta": "Qual é o método para adicionar um item a uma lista?",
+    "opcoes": [".add()", ".append()", ".insert()", ".extend()"],
+    "resposta": ".append()"
+  },
+  {
+    "pergunta": "Como se importa um módulo em Python?",
+    "opcoes": ["importar nome_modulo", "#include nome_modulo", "@import nome_modulo", "import nome_modulo"],
+    "resposta": "import nome_modulo"
+  }
 ]
