@@ -13,7 +13,62 @@
     "pergunta": "Qual dessas estruturas é um loop?",
     "opcoes": ["if", "elif", "else", "for"],
     "resposta": "for"
-  }
+  },
+  {
+    "pergunta": "Como se declara uma variável em Python?",
+    "opcoes": ["var x = 10", "x := 10", "x = 10", "let x = 10"],
+    "resposta": "x = 10"
+  },
+  {
+    "pergunta": "Qual é o operador de comparação para desigualdade em Python?",
+    "opcoes": ["!=", "<>", "!==", "~="],
+    "resposta": "!="
+  },
+  {
+    "pergunta": "Como se cria um dicionário em Python?",
+    "opcoes": ["{}", "[]", "<>", "()"],
+    "resposta": "{}"
+  },
+  {
+    "pergunta": "Qual é a função para obter o tamanho de uma lista ou string?",
+    "opcoes": ["length()", "size()", "count()", "len()"],
+    "resposta": "len()"
+  },
+  {
+    "pergunta": "Como se define uma tupla em Python?",
+    "opcoes": ["[]", "()", "{}", "<>"],
+    "resposta": "()"
+  },
+  {
+    "pergunta": "Qual é o operador de atribuição em Python?",
+    "opcoes": ["=", ":=", "<-", "<-:"],
+    "resposta": "="
+  },
+  {
+    "pergunta": "Como se adiciona um item ao final de um dicionário?",
+    "opcoes": ["dicionario.add(item)", "dicionario.append(item)", "dicionario[item] = valor", "dicionario.insert(item, valor)"],
+    "resposta": "dicionario[item] = valor"
+  },
+  {
+    "pergunta": "Qual é a função para converter uma string para inteiro?",
+    "opcoes": [".int()", ".toInt()", ".parseInt()", "int()"],
+    "resposta": "int()"
+  },
+  {
+    "pergunta": "Como se verifica o tipo de uma variável em Python?",
+    "opcoes": ["type(var)", "var.type()", "check(var)", "isinstance(var, type)"],
+    "resposta": "type(var)"
+  },
+  {
+    "pergunta": "Qual é o operador lógico para 'E' em Python?",
+    "opcoes": ["&&", "&", "and", "&&&"],
+    "resposta": "and"
+  },
+  {
+    "pergunta": "Como se cria um loop for em Python?",
+    "opcoes": ["for i in range(10):", "for i = 0; i < 10; i++:", "for (i = 0; i < 10; i++):", "for i in [0,1,2,3,4,5,6,7,8,9]:"],
+    "resposta": "for i in range(10):"
+  },
   {
     "pergunta": "Qual é o operador de comparação para igualdade em Python?",
     "opcoes": ["=", "==", "!=", "<>"],
@@ -44,9 +99,5 @@
     "opcoes": [".add()", ".append()", ".insert()", ".extend()"],
     "resposta": ".append()"
   },
-  {
-    "pergunta": "Como se importa um módulo em Python?",
-    "opcoes": ["importar nome_modulo", "#include nome_modulo", "@import nome_modulo", "import nome_modulo"],
-    "resposta": "import nome_modulo"
-  }
+  
 ]
