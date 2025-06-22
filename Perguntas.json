@@ -1,0 +1,64 @@
+{
+  "perguntas": [
+    {
+      "pergunta": "Qual é o operador usado para resto da divisão?",
+      "alternativas": ["//", "%", "**", "/"],
+      "resposta": "%"
+    },
+    {
+      "pergunta": "Qual comando usamos para criar comentários no Python?",
+      "alternativas": ["#", "//", "--", "/**/"],
+      "resposta": "#"
+    },
+    {
+      "pergunta": "O que faz o operador != ?",
+      "alternativas": ["Maior que", "Diferente", "Menor ou igual", "Igual"],
+      "resposta": "Diferente"
+    },
+    {
+      "pergunta": "Qual função converte uma string em número inteiro?",
+      "alternativas": ["str()", "float()", "int()", "input()"],
+      "resposta": "int()"
+    },
+    {
+      "pergunta": "Qual é a saída de len('Python')?",
+      "alternativas": ["5", "6", "7", "Erro"],
+      "resposta": "6"
+    },
+    {
+      "pergunta": "Qual comando encerra a execução de um loop imediatamente?",
+      "alternativas": ["continue", "break", "stop", "exit"],
+      "resposta": "break"
+    },
+    {
+      "pergunta": "Qual dessas estruturas permite repetir comandos?",
+      "alternativas": ["if", "else", "while", "elif"],
+      "resposta": "while"
+    },
+    {
+      "pergunta": "O que significa a expressão not True?",
+      "alternativas": ["Verdadeiro", "Falso", "Erro", "Nenhum"],
+      "resposta": "Falso"
+    },
+    {
+      "pergunta": "Qual comando usamos para condicional em Python?",
+      "alternativas": ["if", "for", "def", "while"],
+      "resposta": "if"
+    },
+    {
+      "pergunta": "Qual é a saída de print('Hello' + 'World')?",
+      "alternativas": ["Hello World", "HelloWorld", "helloworld", "Erro"],
+      "resposta": "HelloWorld"
+    },
+    {
+      "pergunta": "O que faz o comando range(5)?",
+      "alternativas": ["Cria uma lista [1, 2, 3, 4, 5]", "Cria uma sequência de 0 a 4", "Erro", "Cria uma lista de 5"],
+      "resposta": "Cria uma sequência de 0 a 4"
+    },
+    {
+      "pergunta": "Qual comando transforma texto em letras maiúsculas?",
+      "alternativas": ["toUpper()", "caps()", "upper()", "maiusculo()"],
+      "resposta": "upper()"
+    }
+  ]
+}
