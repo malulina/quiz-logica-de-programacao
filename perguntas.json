@@ -98,6 +98,6 @@
     "pergunta": "Qual é o método para adicionar um item a uma lista?",
     "opcoes": [".add()", ".append()", ".insert()", ".extend()"],
     "resposta": ".append()"
-  },
+  }
   
 ]
